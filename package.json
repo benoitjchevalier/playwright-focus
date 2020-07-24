@@ -1,0 +1,11 @@
+{
+  "name": "playwright-focus",
+  "version": "19.0.7",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "author": "",
+  "devDependencies": {
+    "playwright": "^1.2.0"
+  }
+}
